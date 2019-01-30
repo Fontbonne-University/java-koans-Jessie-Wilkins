@@ -1,0 +1,1 @@
+I have finished Module 5 involving AboutKoans.java, AboutAssertions, and AboutEquality.
