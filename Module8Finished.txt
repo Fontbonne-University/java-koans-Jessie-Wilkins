@@ -1,0 +1,1 @@
+Finished all related materials of Module8 including the AboutObjects.java and AboutInheritance.java files.
